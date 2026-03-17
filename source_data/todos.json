@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "完成项目文档",
+      "priority": 1,
+      "due_date": "2026-03-20",
+      "category": "工作",
+      "status": "pending",
+      "created_at": "2026-03-17 13:31:48"
+    },
+    {
+      "id": 2,
+      "description": "学习Python",
+      "priority": 2,
+      "due_date": "",
+      "category": "学习",
+      "status": "completed",
+      "created_at": "2026-03-17 13:32:06"
+    },
+    {
+      "id": 3,
+      "description": "买菜",
+      "priority": 3,
+      "due_date": "",
+      "category": "生活",
+      "status": "pending",
+      "created_at": "2026-03-17 13:32:12"
+    }
+  ],
+  "next_id": 4
+}
